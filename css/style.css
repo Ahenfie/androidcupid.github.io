@@ -1,0 +1,68 @@
+
+		div.progress-bar{
+			height: 30px;
+			padding:6px;
+			font-size: 15px;
+			font-weight: bold;
+		}
+		body{
+			background-color: #1DAADF;
+		}
+		h3.text-center{
+			padding-top: 25px;
+			padding-bottom: 25px;
+			color: #888888;
+		}
+		p.lead.text-center.text-muted{
+			padding: 1em;
+		}
+		form.form-group{
+			margin-top: 50px;
+			margin-bottom:50px;
+		}
+		input.form-control{
+			margin-bottom: 10px;
+		}
+		button.btn.btn-default,button.btn.btn-primary{
+			width: 49%;
+		}
+		button.btn.btn-info{
+			width:100%;
+		}
+		.label{
+			font-weight: bolder;
+			color: #888888;
+		}
+		div.complete{
+			padding-left: 40%;
+			padding-top: 50px;
+			padding-bottom: 50px;
+		}
+		i.animated.zoomIn.fa.fa-thumbs-up{
+			color: #2CC990;
+			font-size:100px;
+			text-align: center;
+		}
+		div.container{
+			margin-right: 25%;
+			margin-left: 25%;
+			margin-top: 5%;
+			margin-bottom: 5%;
+		}
+		div.col-md-6,div.col-md-9{
+			background-color: white;
+			padding: 30px;
+		}
+		div.container div.col-md-9{
+			background-color: white;
+			padding: 20px;
+		}
+		.red{
+			color: red;
+			font-size: 20px;
+		}
+		span.badge{
+			background-color: #2CC990;
+			color:black;
+			padding: 5px;
+		}
